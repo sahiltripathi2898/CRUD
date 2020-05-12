@@ -1,3 +1,4 @@
 module.exports = {
-  url: 'mongodb://localhost:27017/bitbrothers',
+  url:
+    'mongodb+srv://sahil:ankur@cluster0-mipl8.mongodb.net/test?retryWrites=true&w=majority',
 };
