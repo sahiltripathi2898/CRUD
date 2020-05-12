@@ -31,7 +31,8 @@ mongoose
 // define a simple route
 app.get('/', (req, res) => {
   res.json({
-    message: 'Welcome to User application',
+    message:
+      'Welcome to User application , you can test the API using postman or add /api/user at the end of the url to get all user',
   });
 });
 
